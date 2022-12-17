@@ -28,10 +28,7 @@ Images from dataset
  │   ├───Train
  │   │   ├───annotations
  │   │   └───images
- │   ├───Validation
- │   │   ├───annotations
- │   │   └───images
- │   └───ValidationOld
+ │   └───Validation
  │       ├───annotations
  │       └───images
  └───weights
