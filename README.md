@@ -41,5 +41,5 @@ Images from dataset
 - Finally add those changes you made in other files onto run.py file and run. 
 
 # What's next?
-[ ] Add weights that trained on VisDrone2019.
+[ ] Add weights that trained on VisDrone2019.<br>
 [ ] Add a demonstration of Model.
