@@ -39,3 +39,7 @@ Images from dataset
 - First you need an custom dataset class or you just can use my VisDroneDatasetClass. 
 - Secondly just adjust the transformation functions on utils.py
 - Finally add those changes you made in other files onto run.py file and run. 
+
+# What's next?
+[ ] Add weights that trained on VisDrone2019.
+[ ] Add a demonstration of Model.
